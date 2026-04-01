@@ -58,3 +58,5 @@ uv run streamlit run main.py
 * 무한 루프 방지: 에이전트가 해결할 수 없는 과제(예: 외부 API 키가 필요한 차단된 요청)를 주었을 때, 최대 시도 횟수(3회)에 도달하면 반복을 중단하고 최종 에러 상태를 반환하는지 점검합니다.
 
 ## 7. 실행 화면
+<img width="1518" height="768" alt="스크린샷 2026-04-02 081930" src="https://github.com/user-attachments/assets/2bdd6ec5-eb3b-4271-a881-f5896f69eb20" />
+
